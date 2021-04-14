@@ -7,7 +7,7 @@ rl.question('',(answer) => {
     len=answer.length;
     var i;
     for (i=0 ;i<=len;i++){
-        console.log(answer.charAt(i));
+        console.log("Hello World !!!");
     }
 rl.close();
 })
